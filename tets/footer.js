@@ -1,3 +1,4 @@
+document.writeln("https://dengfengdengzaidu.github.io/zaidu/img/favicon.ico");
 document.writeln("<style>");
 document.writeln("*{");
 document.writeln("				margin: 0;");
