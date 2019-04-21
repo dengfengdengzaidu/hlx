@@ -1,4 +1,4 @@
-document.writeln("https://dengfengdengzaidu.github.io/zaidu/img/favicon.ico");
+document.writeln("<link rel=\'shortcut icon\' href=\'https://dengfengdengzaidu.github.io/zaidu/img/favicon.ico\' type=\'image/x-icon\'>");
 document.writeln("<style>");
 document.writeln("*{");
 document.writeln("				margin: 0;");
