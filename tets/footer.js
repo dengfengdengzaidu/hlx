@@ -1,0 +1,36 @@
+document.writeln("<style>");
+document.writeln("*{");
+document.writeln("				margin: 0;");
+document.writeln("				padding: 0;");
+document.writeln("			}");
+document.writeln("			.foot {");
+document.writeln("				text-align: center;");
+document.writeln("				background: #191919;");
+document.writeln("				width: 100%;");
+document.writeln("				height: auto;");
+document.writeln("				padding: 1vw 0;");
+document.writeln("			}");
+document.writeln("");
+document.writeln("			.foot p {");
+document.writeln("				font-size: ;");
+document.writeln("				line-height: 1.2;");
+document.writeln("				color: #666666;");
+document.writeln("			}");
+document.writeln("			a{");
+document.writeln("				text-decoration: none;");
+document.writeln("			}");
+document.writeln("		</style>");
+document.writeln("		<a href=\'http://wap.huluxia.com\'>");
+document.writeln("		<footer class=\'foot\'>");
+document.writeln("			<p>COPYRIGHT © 2019 HULUXIA.</p>");
+document.writeln("			<p>葫芦侠 版权所有</p>");
+document.writeln("		</footer></a>");
+
+var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+	 document.write(unescape("%3Cspan id='cnzz_stat_icon_1276825158'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1276825158%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+	 document.writeln("<style>");
+document.writeln("  #cnzz_stat_icon_1276825158{");
+document.writeln("    display: none;");
+document.writeln("    }");
+document.writeln("  </style>");
+
